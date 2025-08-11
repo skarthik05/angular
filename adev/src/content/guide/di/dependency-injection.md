@@ -136,5 +136,5 @@ style componentProperty text-align: left
 ## What's next
 
 <docs-pill-row>
-  <docs-pill href="/guide/di/creating-injectable-service" title="Creating an injectable service"/>
+  <docs-pill href="/guide/di/creating-injectable-service" title="Creating and injectable service"/>
 </docs-pill-row>
